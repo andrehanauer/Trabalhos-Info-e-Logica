@@ -1,0 +1,14 @@
+
+regra5(_, laura, _, _, tiago, _, _, _, _, _, _, _, _, _, _). 
+regra5(_, tiago, _, _, laura, _, _, _, _, _, _, _, _, _, _). 
+regra5(_, _, _, _, laura, _, _, tiago, _, _, _, _, _, _, _). 
+regra5(_, _, _, _, tiago, _, _, laura, _, _, _, _, _, _, _). 
+regra5(_, laura, _, _, _, _, _, tiago, _, _, _, _, _, _, _). 
+regra5(_, tiago, _, _, _, _, _, laura, _, _, _, _, _, _, _). 
+regra5(_, laura, _, _, _, _, _, _, _, _, _, _, _, tiago, _). 
+regra5(_, tiago, _, _, _, _, _, _, _, _, _, _, _, laura, _). 
+regra5(_, _, _, _, laura, _, _, _, _, _, _, _, _, tiago, _). 
+regra5(_, _, _, _, tiago, _, _, _, _, _, _, _, _, laura, _). 
+regra5(_, _, _, _, _, _, _, laura, _, _, _, _, _, tiago, _). 
+regra5(_, _, _, _, _, _, _, tiago, _, _, _, _, _, laura, _). 
+

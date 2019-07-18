@@ -1,0 +1,69 @@
+/* ************************************************************************ *
+*    Falacias logicas                                                      *
+*    Disserta sobre dez falacias logicas                                   *
+*                                                                          *
+*    Copyright (C) 2019 by Andre Hanauer Navarro                           *
+*                                                                          *
+*    This program is free software; you can redistribute it and/or modify  *
+*    it under the terms of the GNU General Public License as published by  *
+*    the Free Software Foundation; either version 2 of the License, or     *
+*    (at your option) any later version.                                   *
+*                                                                          *
+*    This program is distributed in the hope that it will be useful,       *
+*    but WITHOUT ANY WARRANTY; without even the implied warranty of        *
+*    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         *
+*    GNU General Public License for more details.                          *
+*                                                                          *
+*    You should have received a copy of the GNU General Public License     *
+*    along with this program; if not, write to the                         *
+*    Free Software Foundation, Inc.,                                       *
+*    59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.             *
+*                                                                          *
+*    To contact the author, please write to:                               *
+*    Andre Hanauer Navarro <andrehanauern@gmail.com>                       *
+*    Webpage: http://www.github.com/andrehanauer                            *
+*    Phone: +55 (81) 99177-4250                                            *
+* ************************************************************************ *
+* 
+*/
+
+1.Apelo à probabilidade: Assume que porque algo pode acontecer, então inevitavelmente ele vai acontecer. Esta é a premissa sobre a qual a
+Lei de Murphy está baseada. 
+“Um vegetariano pode ter uma dieta pouco nutritiva. Ou seja, o vegetarianismo não é uma alimentação saudável.” – Estabelece como “certo” que o
+vegetariano tenha uma alimentação pouco nutritiva, mesmo que haja uma chance apenas pequena de ele adotar uma dieta desequilibrada e deficiente. 
+Haver uma determinada chance de ser adotada uma dieta fraca não quer dizer que a pessoa vai com certeza adotá-la e sofrer as consequências.
+
+2.Falácia da taxa básica: Utilização de evidência fraca para fazer um julgamento de probabilidade sem levar em consideração estatísticas
+empíricas conhecidas sobre a probabilidade.
+
+3.Apelo à autoridade argumentum ad verecundiam: Quando uma afirmação é considerada verdadeira por causa da posição ou autoridade da pessoa afirmando-a.
+Segundo a presidente da Associação de Nutrição do Estado de Utopia, Fulana de Tal, o vegetarianismo tem alta probabilidade de causar anemia por deficiência
+de ferro.” – Quando não vem acompanhada, na reportagem, de dados de pesquisas científicas ou relatórios institucionais (que poderia ser da própria 
+“Associação de Nutrição do Estado de Utopia”) que corroborem tal afirmação, a confiabilidade da declaração dessa especialista acaba totalmente escorada
+no status de profissional/autoridade de saúde que ela ostenta. Fica assim caracterizada a falácia de apelo à autoridade, mesmo que não tenha sido intencionada
+pelo redator da matéria.
+
+4.Falácia de premissas exclusivas: um silogismo categórico que é inválido porque ambas as suas premissas são negativas.
+
+5.Argumentum ad Hominem: ataque à pessoa ao invés de ao argumento. Uma forma desta falácia é o reductio ad Hitlerum.
+“Segundo a presidente da Associação de Nutrição do Estado de Utopia, Fulana de Tal, o vegetarianismo tem alta probabilidade de causar anemia
+por deficiência de ferro.” – Quando não vem acompanhada, na reportagem, de dados de pesquisas científicas ou relatórios institucionais
+(que poderia ser da própria “Associação de Nutrição do Estado de Utopia”) que corroborem tal afirmação, a confiabilidade da declaração
+dessa especialista acaba totalmente escorada no status de profissional/autoridade de saúde que ela ostenta. Fica assim caracterizada a
+falácia de apelo à autoridade, mesmo que não tenha sido intencionada pelo redator da matéria.
+
+6.Argumentum ad populum ("apelo à crença", "apelo à maioria", "apelo ao povo"): quando uma proposição é tida como verdadeira apenas porque
+muitas pessoas acreditam que ela é verdadeira.
+ “Precisamos de carne para sobreviver, todo mundo sabe disso.” – O argumentador passa a ideia de que “é óbvio” e “todo mundo sabe” que
+ “precisamos de carne para sobreviver”. Mas não conta com o fato de que os vegans, vegetarianos e protovegetarianos saudáveis são a prova
+ viva de que essa crença é errada.
+
+7.Falácia existencial: um argumento tem duas premissas universais e uma conclusão particular, mas as premissas não estabelecem a veracidade da conclusão.
+
+8.Apelo ao ridículo: um tipo específico de apelo à emoção quando um argumento é feito apresentando-se o argumento do oponente duma maneira que o faz
+parecer ridículo.
+
+9.Afirmando um disjunto: Conclui que uma disjunção lógica precisa ser falsa porque a outra disjunção é verdadeira; A ou B; A; logo não B.
+
+10.Afirmando o consequente: O antecedente numa condição indicativa é tida como verdadeira porque o consequente é verdadeiro; se A, então B; B, logo A.
+

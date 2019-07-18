@@ -1,0 +1,21 @@
+%Aluno: Andre Hanauer Navarro
+%Data: 07/03/2019
+%Descricao: Passo a passo da troca de um pneu furado.
+
+1. Abrir o porta malas.
+2. Retirar o macaco e a chave de roda.
+3. Posicionar-se perto do pneu que está danificado.
+4. Encaixar a chave de roda no parafuso.
+5. Girar a chave de roda no sentido anti-horário.
+6. Repetir a ordem "5" até que o parafuso se solte da roda.
+7. Retornar a ordem "5" até que os parafusos acabem.
+8. Posicionar o macaco de baixo do carro.
+9. Tracionar a barra de tração do macaco até que o pneu perca o contato com o solo.
+10. Puxar roda de forma perpendicular ao veículo.
+11. Retornar ao prota malas e pegar o estepe.
+12. Encaixar o estepe no local aonde a roda foi retirada.
+13. Liberar e retirar o macaco.
+14. Colocar um parafuso no seu respectivo local.
+15. Pegar a chave de roda tracionar o parafuso no sentido horário.
+16. Retornar a ordem "14" até que os parafusos se acabem.
+17. Guardar o estepe, o macaco e a chave de roda na mala.

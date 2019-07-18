@@ -1,0 +1,50 @@
+// Autor: André Hanauer Navarro
+// Data: 03/03/2019
+// Descrição: Algoritmo de equação de segundo grau
+
+
+algoritmo equacao ;
+
+variáveis
+A : real;
+B : real;
+C : real;
+DELTA : real;
+X1 : real;
+X2 : real;
+rai : real;
+fim-variáveis
+
+início
+
+// Seção de comandos
+    imprima("Escreva o valor de A:");
+    A := leia();
+
+    imprima("Escreva o valor de B:");
+    B := leia();
+
+    imprima("Escreva O Valor de C:");
+    C := leia();
+ 
+
+    DELTA := ((B*B)-(4*A*C));
+    rai := raiz(DELTA);
+
+    X1 := ((-B)+raiz(DELTA))/(2*A);
+    
+    X2 := ((-B)-raiz(DELTA))/(2*A);
+
+    imprima("X1 = ", X1);
+    imprima("X2 = ", X2);
+fim
+
+função raiz(ra : real) : real
+início
+    ra := 0.1;
+    enquanto (ra*ra < DELTA) faça
+    ra := ra + 0.1;
+    fim-enquanto
+    retorne ra;
+fim
+

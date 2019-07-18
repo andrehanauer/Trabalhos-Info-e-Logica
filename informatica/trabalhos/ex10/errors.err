@@ -1,0 +1,14 @@
+pe4.c: In function ‘pe4’:
+pe4.c:74:20: error: ‘deffed’ undeclared (first use in this function)
+     }while(a * b = deffed);
+                    ^~~~~~
+pe4.c:74:20: note: each undeclared identifier is reported only once for each function it appears in
+pe4.c:69:13: warning: unused variable ‘f’ [-Wunused-variable]
+     int d,e,f;
+             ^
+pe4.c:69:11: warning: unused variable ‘e’ [-Wunused-variable]
+     int d,e,f;
+           ^
+pe4.c:69:9: warning: unused variable ‘d’ [-Wunused-variable]
+     int d,e,f;
+         ^

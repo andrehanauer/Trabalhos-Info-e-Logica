@@ -1,0 +1,37 @@
+ex19_itera.c: In function ‘main’:
+ex19_itera.c:97:5: warning: implicit declaration of function ‘imprime_pino’ [-Wimplicit-function-declaration]
+     imprime_pino(pino);
+     ^~~~~~~~~~~~
+ex19_itera.c:111:9: error: too many arguments to function ‘pega_pino’
+     d = pega_pino(pino, 1, d);
+         ^~~~~~~~~
+ex19_itera.c:78:5: note: declared here
+ int pega_pino(int pino[3][NDISC], int p);
+     ^~~~~~~~~
+ex19_itera.c:92:9: warning: unused variable ‘n’ [-Wunused-variable]
+     int n;
+         ^
+ex19_itera.c: In function ‘inicializa’:
+ex19_itera.c:129:9: error: ‘pino’ undeclared (first use in this function)
+         pino[0][i] = i + 1;
+         ^~~~
+ex19_itera.c:129:9: note: each undeclared identifier is reported only once for each function it appears in
+ex19_itera.c:123:21: warning: unused parameter ‘p’ [-Wunused-parameter]
+ void inicializa(int p[3][NDISC])
+                     ^
+ex19_itera.c: At top level:
+ex19_itera.c:138:1: error: expected identifier or ‘(’ before ‘{’ token
+ {
+ ^
+ex19_itera.c:145:1: error: expected identifier or ‘(’ before ‘{’ token
+ {
+ ^
+ex19_itera.c:163:1: error: expected identifier or ‘(’ before ‘{’ token
+ {
+ ^
+ex19_itera.c: In function ‘hanoi’:
+ex19_itera.c:185:9: warning: implicit declaration of function ‘pow’ [-Wimplicit-function-declaration]
+     t = pow(2, n) -1;
+         ^~~
+ex19_itera.c:185:9: warning: incompatible implicit declaration of built-in function ‘pow’
+ex19_itera.c:185:9: note: include ‘<math.h>’ or provide a declaration of ‘pow’
